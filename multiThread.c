@@ -6,7 +6,6 @@
 
 /**
  * Ryan Hoang
- * Aaron Gonzalez
  * CECS 326
  * 2/21/2021
  */
